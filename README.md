@@ -1,5 +1,3 @@
-https://github.com/OkazakiTomoya/awd-submit-flag
-# awd-submit-flag
 
 ---
 ## 依赖
